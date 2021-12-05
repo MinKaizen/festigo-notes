@@ -135,4 +135,18 @@ In general, you need to create a separate product for each festival. For example
 
 Images
 ===========================
-How images work is that you only need to upload an image once, but it can be used in many different places. Becareful not to upload 
+How images work is that you only need to upload an image once, but it can be used in many different places. Becareful not to upload the same image twice because it wastes space on your site.
+
+Every time you upload an image (for example, when you set the featured image for a festival/product/artist/etc), that image will be permanently stored on your site and you don't need to upload it again. You should have noticed that when you add a featured image, you can choose from some pictures that are already on your site or you can upload a new image.
+
+You can see a list of images on your site by going to "media" on the left hand side on any Admin Dashboard page.
+
+Coupons
+============
+
+To add a coupon go to the admin dashboard and click on "Marketing > Coupons" on the left hand side. The settings here are pretty self explanatory
+
+Booking Fee
+=====
+
+To configure your booking fee, go to the admin dashboard and on the left hand side, go to "Woocommerce > Settings" and then click on the "Custom Fee" tab.
