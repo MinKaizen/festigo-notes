@@ -1,8 +1,7 @@
+Login Details
+=====
 
-Login details:
-URL: festigo.travel/wp-admin
-Username: arbee
-Password: Hzy(!&3uMhnZa)wXjU0bKz6%
+Log in using: festigo.travel/wp-admin
 
 Once you login, you will see the Admin Dashboard. Everything can be done from this page, so if in doubt, just come back to this page (festigo.travel/wp-admin)
 
